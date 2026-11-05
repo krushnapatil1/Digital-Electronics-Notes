@@ -1,4 +1,4 @@
-# 📘 Digital Electronics Notes
+# 📘 Digital Electronics Notes by Krushna Patil
 
 Welcome to my **Digital Electronics Notes** repository!
 
